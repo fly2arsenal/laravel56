@@ -1,0 +1,44 @@
+.btn-file {
+  position: relative;
+  overflow: hidden; }
+
+.img-upload {
+  margin-bottom: 10px; }
+
+.form-group {
+  margin-bottom: 8px; }
+
+#cke_content {
+  margin-top: 15px; }
+
+.btn-last-page {
+  margin-top: 20px; }
+
+.sidebar-menu .treeview-menu > li > a {
+  padding: 10px 5px 10px 15px !important; }
+
+.action-table {
+  padding: 3px 8px;
+  width: 180px; }
+
+table tr th {
+  text-align: center !important; }
+
+.tab-content {
+  padding-top: 15px; }
+
+.no-result {
+  text-align: center;
+  padding-bottom: 20px; }
+
+.has-error {
+  padding-right: 10px;
+  float: right;
+  color: red; }
+
+.table-bordered img {
+  max-width: 300px; }
+
+.check-featured {
+  font-size: 16px;
+  margin-left: 10px !important; }
